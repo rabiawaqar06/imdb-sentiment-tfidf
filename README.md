@@ -49,8 +49,8 @@ matplotlib
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/rabiawaqar06/imdb-sentiment-tfidf.git
+cd imdb-sentiment-tfidf
 ```
 
 2. Install required packages:
